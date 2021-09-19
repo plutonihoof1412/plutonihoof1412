@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plutonihoof1412
 - 👀 I’m interested in Coding atm
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on baic Javascript projects
+- 💞️ I’m looking to collaborate on basic Javascript projects
 - 📫 How to reach me: plutonihoof1412@gmail.com
 
 <!---
